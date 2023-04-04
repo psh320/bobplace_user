@@ -14,7 +14,7 @@ Bobplace is an app that uses gamification to encourage users to go outside to ha
 
 ## System Design
 
-![시스템 구상도.drawio.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b131ab60-eeb3-4605-add9-9b4a8ec935cc/%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7_%E1%84%80%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC%E1%84%83%E1%85%A9.drawio.png)
+![Alt text](./bobplace_system.png)
 
 ---
 
@@ -42,12 +42,11 @@ Bobplace is an app that uses gamification to encourage users to go outside to ha
 
 ### Customer App
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b45a17d8-aa62-40bf-9091-61fc50c194e0/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/218c88e7-32ba-48e2-a1ed-34af8faf78bd/Untitled.png)
+![Alt text](./bobplace1.png)
+![Alt text](./bobplace2.png)
 
 ### Restaunrant Owner App
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45b9b6e0-8942-4cff-944c-b35507d1a37f/Untitled.png)
+![Alt text](./bobplace3.png)
 
 ---
